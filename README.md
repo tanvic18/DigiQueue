@@ -5,7 +5,7 @@ and government offices — often in harsh weather, with no idea when their turn 
 This outdated system leads to lost income for workers, physical strain for the elderly and sick, and 
 frustration for everyone involved. Despite India’s digital progress most local establishments still manage  queues manually due to lack of simple, scalable solutions.
 
-PROPOSED SOLUTION 
+PROPOSED SOLUTION \\
  DigiQueue
  is a real-time smart queuing system that lets people book tokens remotely 
 and track their turn from anywhere. 
