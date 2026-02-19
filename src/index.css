@@ -167,3 +167,6 @@
 body {
   font-family: 'Inter', sans-serif;
 }
+.leaflet-container {
+  z-index: 0 !important;
+}
